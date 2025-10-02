@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"p1Algoritmia","l":"Algorithms"},{"p":"p1Algoritmia","l":"AlgorithmsBenchmark"},{"p":"p1Algoritmia","l":"AlgorithmsBenchmarkTest"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"eval","l":"Alumno"},{"p":"test.algorithms","l":"TestAlgorithms"}];updateSearchResults();
